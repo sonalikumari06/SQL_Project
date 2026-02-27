@@ -5,6 +5,7 @@ Tools Used
 MySQL
 
 What I Did
+
 Wrote SQL queries using SELECT, WHERE, GROUP BY, and JOIN
 Analyzed sales and customer data
 Identified top customers and best-selling genres
