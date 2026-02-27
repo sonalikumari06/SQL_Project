@@ -1,7 +1,9 @@
 Project Objective
+
 Analyze music store sales data using SQL to understand customer behavior and revenue trends.
 
 Tools Used
+
 MySQL
 
 What I Did
@@ -12,6 +14,7 @@ Identified top customers and best-selling genres
 Calculated total revenue and sales trends
 
 Key Insights
+
 Found highest revenue-generating customers
 Identified popular music genres
 Analyzed overall store performance
